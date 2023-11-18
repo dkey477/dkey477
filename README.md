@@ -14,8 +14,8 @@ ___
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://vk.com/dkey47" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://t.me/dkey_47" target="_blank">
+      <img src="https://img.icons8.com/?size=48&id=jZ1z64hEYYLW&format=png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
